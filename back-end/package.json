@@ -1,11 +1,11 @@
 {
-  "name": "Final Capstone Raymond Yepiz",
+  "name": "starter-restaurant-reservation-back-end",
   "version": "1.0.0",
-  "description": "Restaurant reservation backend",
+  "description": "Starter code for restaurant reservation backend",
   "main": "src/server.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/RayYepiz/ThinkfulCapstone",
+    "url": "https://github.com/Thinkful-Ed/starter-restaurant-reservation",
     "directory": "/back-end"
   },
   "scripts": {
